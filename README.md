@@ -1,4 +1,4 @@
-# Daily-Transaction-Data-Analysis
+# 📊 EDA Project Daily-Transaction-Data-Analysis 
 Exploratory Data Analysis (EDA) of daily transaction data to uncover patterns, trends, and insights using Python and Pandas.
 Descriptive Statistics
 The overall statistics of transaction amounts showed that most transactions are low to medium in value, with a few outliers representing high-value transactions.
